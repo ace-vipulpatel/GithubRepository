@@ -1,2 +1,3 @@
 Line-1
-Line-2 (Branch) Branch-1
+Line-2 
+Line-3 Commit and Push (Branch-1) Only.
